@@ -1,2 +1,3 @@
 Meu primeiro arquivo no GIT
- Algumas alterações \n
+ Algumas alterações
+ outro repositorio
