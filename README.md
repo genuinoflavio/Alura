@@ -76,16 +76,16 @@
 
 
 ## Matemática para Programação e Data Science
-## Passo 1
+### Passo 1
 *  [Matemática: Funções e seus usos](https://cursos.alura.com.br/course/funcoes)
 *  [Matemática: Operações com Matrizes](https://cursos.alura.com.br/course/introducao-a-matrizes)
-## Passo 2
+### Passo 2
 *  [Matemática: Continuidade de funções e seus limites](https://cursos.alura.com.br/course/limites)
 *  [Matemática: Introdução ao cálculo de derivadas](https://cursos.alura.com.br/course/derivadas)
 *  [Matemática: Introdução ao cálculo de integrais](https://cursos.alura.com.br/course/integrais)
 *  [Modelos Matemáticos: usando Funções no R^n](https://cursos.alura.com.br/course/modelos-matematicos-funcao-rn)
 *  [Matemática: derivadas no Rn](https://cursos.alura.com.br/course/matematica-derivadas-rn)
-## Passo 3
+### Passo 3
 *  [Matemática: iniciando em álgebra linear e vetores](https://cursos.alura.com.br/course/algebra-linear-vetores)
 *  [Matemática: álgebra linear e vetores no R3](https://cursos.alura.com.br/course/algebrea-linear-e-vetores-no-r3)
 *  [Matemática: espaços e subespaços vetoriais](https://cursos.alura.com.br/course/matematica-espacos-e-subespacos-vetoriais)
